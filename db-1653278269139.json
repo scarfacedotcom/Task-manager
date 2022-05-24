@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "taskName": "Fix the navbar",
+      "assignee": "Longs",
+      "taskDate": "01/01/2022",
+      "instruction": "Change the color of the navbar and make the links spaced out"
+    },
+    {
+      "id": 2,
+      "taskName": "Fix the footer",
+      "assignee": "Peter",
+      "taskDate": "01/21/2022",
+      "instruction": "Change the color of the footer and make the links spaced out"
+    },
+    {
+      "id": 3,
+      "taskName": "Fix the main",
+      "assignee": "John",
+      "taskDate": "01/01/2032",
+      "instruction": "Change the color of the navbar and make the links spaced out"
+    }
+  ]
+}
